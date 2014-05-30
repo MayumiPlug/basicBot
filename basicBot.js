@@ -22,7 +22,7 @@ var kill = function(){
     clearInterval(esBot.room.autodisableInterval);
     clearInterval(esBot.room.afkInterval);
     esBot.status = false;
-    console.log("Bot was killed.");
+    console.log("Bot da Mayumi está offline T_T.");
 }
 
 var storeToStorage = function(){
